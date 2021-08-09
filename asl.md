@@ -34,7 +34,7 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="major">ASL to Text</h1>
-							<span class="image fit"><img src="./images/pic04.jpg" alt="" /></span>
+							<span class="image fit"><img src="./images/pic01.jpg" alt="" /></span>
 							<p>In recent years, ASL has become the medium of communication for thousands, if not millions of people. However, very few people with no hearing impairment know the various symbols of this sign-language. This project aims to bridge the gap between those who know and those who don't know this language. <a href="https://github.com/Chiraagkv/ASL">This project</a> uses the MobileNet architecture to recognise patterns in the video frames (which are taken from your camera) and predicts the ASL sign you are making. The model is trained on the <a href="https://www.kaggle.com/grassknoted/asl-alphabet">ASL Alphabets dataset</a>.</p>
 					
 						</div>
