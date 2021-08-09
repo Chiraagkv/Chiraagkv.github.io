@@ -166,6 +166,10 @@
 											<a href="index.html">chiraagkv@gmail.com</a>
 										</li>
 										<li>
+											<h3>My Medium blogpost</h3>
+											<a href="https://chiraagkv.medium.com/">chiraagkv.medium.com</a>
+										</li>
+										<li>
 											<!-- <h3>Phone</h3>
 											<span>(000) 000-0000</span> -->
 										</li>
