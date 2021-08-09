@@ -34,7 +34,7 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="major">Karen</h1>
-							<span class="image fit"><img src="./images/pic04.jpg" alt="" /></span>
+							<span class="image fit"><img src="./images/pic02.jpg" alt="" /></span>
 							<p>This was my first ever programming project. Karen is a voice-controlled Virtual assistant that can help you in your day to day tasks like calculating something, googling up something or even having a simple chat with it. Karen can also remember pairs of statements and suitable responses by storing them in a text file.</p>
 					
 						</div>
