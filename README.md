@@ -1,2 +1,2 @@
 # chiraag.github.io
-this is my website
+This is a portfolio website.
