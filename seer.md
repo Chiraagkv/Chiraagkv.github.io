@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Karen</title>
+		<title>Seer</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="./assets/css/main.css" />
@@ -17,7 +17,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<a href="karen.html" class="title">Works</a>
+				<a href="seer.html" class="title">Works</a>
 				<nav>
 					<ul>
 						<li><a href="index.html">Home</a></li>
@@ -33,9 +33,9 @@
 				<!-- Main -->
 					<section id="main" class="wrapper">
 						<div class="inner">
-							<h1 class="major">Karen</h1>
-							<span class="image fit"><img src="./images/pic02.jpg" alt="" /></span>
-							<p>This was my first ever programming project. <a href="https://github.com/Chiraagkv/Python-Projects/tree/master/Assistant">Karen</a> is a voice-controlled Virtual assistant that can help you in your day to day tasks like calculating something, googling up something or even having a simple chat with it. Karen can also remember pairs of statements and suitable responses by storing them in a text file.</p>
+							<h1 class="major">Seer</h1>
+							<span class="image fit"><img src="./images/pic03.jpg" alt="" /></span>
+							<p><a href="https://github.com/Chiraagkv/computer-vision-projects/tree/main/Seer">Seer</a>> is a computer vision project that helps the visually-impaired navigate through obstacles by telling what and where the obstacle is. It uses the YOLO architecture to detect objects and pttsx3 for speech synthesis.</p>
 					
 						</div>
 					</section>
