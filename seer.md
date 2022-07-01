@@ -35,7 +35,7 @@
 						<div class="inner">
 							<h1 class="major">Seer</h1>
 							<span class="image fit"><img src="./images/pic03.jpg" alt="" /></span>
-							<p><a href="https://github.com/Chiraagkv/computer-vision-projects/tree/main/Seer">Seer</a> is a computer vision project that helps the visually-impaired navigate through obstacles by telling what and where the obstacle is. It uses the YOLO architecture to detect objects and pttsx3 for speech synthesis.</p>
+							<p><a href="[https://github.com/Chiraagkv/computer-vision-projects/tree/main/Seer](https://github.com/Chiraagkv/Seer)">Seer</a> is a computer vision project that helps the visually-impaired navigate through obstacles by telling what and where the obstacle is. It uses the YOLO architecture to detect objects and pttsx3 for speech synthesis.</p>
 					
 						</div>
 					</section>
